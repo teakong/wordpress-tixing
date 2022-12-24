@@ -1,4 +1,7 @@
 === 聚合推送 ===
+
+[![Join the chat at https://gitter.im/teakong/push](https://badges.gitter.im/teakong/push.svg)](https://gitter.im/teakong/push?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Contributors: teakong
 Tags: tixing, 微信提醒, 提醒, 通知, 动态提醒, 微信, 语音, 评论通知, 注册通知, 评论提醒, 注册提醒, 钉钉提醒, 飞书提醒
 Requires at least: 4.0
